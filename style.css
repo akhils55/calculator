@@ -8,8 +8,8 @@
 }
 body{
     display: grid;
-    height: 300px;
-    width: 300px;
+    height: 500px;
+    width: 650px;
     place-items: center;
     background: linear-gradient(90deg, rgba(179,52,178,1) 0%, rgba(182,120,49,1) 28%, rgba(106,68,159,1) 56%, rgba(23,137,190,1) 78%, rgba(0,212,255,1) 100%);
 }
@@ -26,7 +26,7 @@ body{
 .container h1
 {
     text-align: start;
-    margin: 10px;
+    margin: 85px;
 }
 .inpSection{
 
